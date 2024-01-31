@@ -44,10 +44,6 @@ Hi there! 👋
 </a>
 
 <br />
-
-### ✔️ Stats
-![JIMIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIMIN1020&show_icons=true&theme=apprentice)
-
 </div>
 
 
