@@ -1,5 +1,5 @@
 
-<div align="center">
+<div>
 
 # Jimin Ryu
 Hi there! 👋
@@ -42,4 +42,12 @@ Hi there! 👋
 <a href="mailto:jimins4920@gmail.com">
   <img src="https://img.shields.io/badge/jimins4920@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br />
+
+### ✔️ Stats
+![JIMIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIMIN1020&show_icons=true&theme=apprentice)
+
 </div>
+
+
