@@ -7,7 +7,7 @@ Hi there! 👋
 ---
 ### ✔️ About Me
 - 숙명여자대학교 LCB외식경영 / IT공학전공
-- JS, TS를 기반으로 한 웹 프론트 기술을 공부하고 있습니다!
+- JS, TS를 기반으로 한 웹 프론트 개발을 공부하고 있습니다
 
 <a href="mailto:jimins4920@gmail.com">
   <img src="https://img.shields.io/badge/jimins4920@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
