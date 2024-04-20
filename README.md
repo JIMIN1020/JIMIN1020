@@ -2,9 +2,8 @@
 <div style="padding: 20px">
 
 # Jimin Ryu
-Hi there! 👋
 
----
+
 ### ✔️ About Me
 - 숙명여자대학교 LCB외식경영 / IT공학전공
 - JS, TS를 기반으로 한 웹 프론트 개발을 공부하고 있습니다
@@ -13,7 +12,8 @@ Hi there! 👋
   <img src="https://img.shields.io/badge/jimins4920@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
----
+<br/>
+<br/>
 
 ### ✔️ Tech Stack
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -31,6 +31,6 @@ Hi there! 👋
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
----
+<br/>
 
 </div>
