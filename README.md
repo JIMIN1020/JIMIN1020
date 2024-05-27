@@ -9,7 +9,6 @@
 - JS, TS를 기반으로 한 웹 프론트 개발을 공부하고 있습니다
 
 <br/>
-<br/>
 
 ### ✔️ Tech Stack
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
