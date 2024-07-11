@@ -3,13 +3,6 @@
 
 # Jimin Ryu
 
-
-### ✔️ About Me
-- 숙명여자대학교 LCB외식경영 / IT공학전공
-- JS, TS를 기반으로 한 웹 프론트 개발을 공부하고 있습니다
-
-<br/>
-
 ### ✔️ Tech Stack
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
