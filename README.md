@@ -4,13 +4,15 @@
 # Jimin Ryu
 Hi there 👋
 
-### 📌 Main
+### 📌 Skills
 - JavaScript / TypeScript
-- React.js / Express.js
+- React.js / Next.js
 - Styled-components / TailwindCSS
 - Zustand / React-Query
+- Storybook / MSW
 
 ### 📌 Tools
+- Git / Github
 - Slack / Discord / Notion / Figma
 
 </div>
