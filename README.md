@@ -6,13 +6,14 @@ Hi there 👋
 
 ### 📌 Skills
 - JavaScript / TypeScript
-- React.js / Next.js
+- React / Next.js
 - Styled-components / TailwindCSS
-- Zustand / React-Query
-- Storybook / MSW
+- Tanstack-Query / Zustand
+
 
 ### 📌 Tools
 - Git / Github
-- Slack / Discord / Notion / Figma
+- Storybook / MSW
+- Sentry
 
 </div>
